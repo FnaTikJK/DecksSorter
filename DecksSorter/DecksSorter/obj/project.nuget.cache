@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "uul0y/e84gDEeZXiMIQ4aXlpN/3ZVlKO9qzmQNdjBookCTwHj4AwIynGCqJZuvTNcG89cKuuhLsHprvqpIO0AQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Антон\\Desktop\\DecksSorter\\DecksSorter\\DecksSorter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Антон\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Антон\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Антон\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\Антон\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
